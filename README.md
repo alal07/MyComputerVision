@@ -1,6 +1,11 @@
 # MyComputerVision
 
-https://opencv.org/courses
+- [ ] How I got a job in Computer Vision with no experience - 
+        https://www.youtube.com/watch?v=K5aVsTdmdHk   
+
+- [ ] https://opencv.org/courses
+
+
 
 
 
